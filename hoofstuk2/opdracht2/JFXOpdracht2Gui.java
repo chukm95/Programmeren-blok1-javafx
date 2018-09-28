@@ -19,7 +19,7 @@ public class JFXOpdracht2Gui {
             tekstVakVoornaam.setText("Jesse");
         });
         knopAchternaam.setOnAction(e->{
-            tekstVakAchternaam.setText("Mgbejume");
+            tekstVakAchternaam.setText("M******e");
         });
 
         flowPane.getChildren().addAll(knopVoornaam, tekstVakVoornaam, knopAchternaam, tekstVakAchternaam);
